@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Houaris
 - 👀 I’m interested in Machine learning, Testing, Microservice architectures, DevOps, Security 
 - 🌱 I’m currently learning Microservices,Testing, Data science, AI in IOT, Blockchain Development, XAI techniques 
-- 💞️ I’m looking to collaborate on projects that have vision 
+- 💞️ I’m looking to collaborate on challenging projects  
 - 📫 How to reach me on my email hirzusal@gmail.com
 
 <!---
